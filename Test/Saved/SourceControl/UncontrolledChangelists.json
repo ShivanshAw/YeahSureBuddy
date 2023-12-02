@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/SAwasthi/Documents/GitHub/YeahSureBuddy/Test/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/SAwasthi/Documents/GitHub/YeahSureBuddy/Test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/SAwasthi/Documents/GitHub/YeahSureBuddy/Test/Content/Input/BP_player.uasset",
+				"C:/Users/SAwasthi/Documents/GitHub/YeahSureBuddy/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/SAwasthi/Documents/GitHub/YeahSureBuddy/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/SAwasthi/Documents/GitHub/YeahSureBuddy/Test/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset"
 			]
 		}
 	]
